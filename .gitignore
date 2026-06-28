@@ -1,0 +1,10 @@
+*.jou
+*.log
+*.xdc
+*.dcp
+*.rpt
+*.mcs
+*.prm
+build/
+*.swp
+*.swo
